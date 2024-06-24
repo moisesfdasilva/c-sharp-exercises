@@ -8,7 +8,7 @@
       verbatimStringLiteral.runVerbatimStringLiteral();
 
       //https://www.youtube.com/watch?v=kPdLsrggPH0 [books]
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [2:33:00]
+      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [2:47:55]
     }
   }
 }
