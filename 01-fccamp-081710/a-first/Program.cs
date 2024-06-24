@@ -55,11 +55,11 @@
       // TryParseFunction tryParseFunction = new TryParseFunction();
       // tryParseFunction.runTryParseFunction();
 
-      TimesTable timesTable = new TimesTable();
-      timesTable.runTimesTable();
+      // TimesTable timesTable = new TimesTable();
+      // timesTable.runTimesTable();
 
-      //https://www.youtube.com/watch?v=kPdLsrggPH0 [books]
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [1:32:53]
+      FizBuzzGame fizBuzzGame = new FizBuzzGame();
+      fizBuzzGame.runFizBuzzGame();
     }
   }
 }
