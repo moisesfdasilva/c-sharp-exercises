@@ -31,11 +31,37 @@
       // StringInReverse stringInReverse = new StringInReverse();
       // stringInReverse.runStringInReverse();
 
-      PasswordChecker passwordChecker = new PasswordChecker();
-      passwordChecker.runPasswordChecker();
+      // PasswordChecker passwordChecker = new PasswordChecker();
+      // passwordChecker.runPasswordChecker();
 
-      //https://www.youtube.com/watch?v=kPdLsrggPH0 [books]
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [3:11:03]
+      // Arrays arrays = new Arrays();
+      // arrays.runArrays();
+
+      // ArraySorting arraySorting = new ArraySorting();
+      // arraySorting.runArraySorting();
+
+      // ArrayReversal arrayReversal = new ArrayReversal();
+      // arrayReversal.runArrayReversal();
+
+      // ArrayClearing arrayClearing = new ArrayClearing();
+      // arrayClearing.runArrayClearing();
+
+      // ArrayIndexOf arrayIndexOf = new ArrayIndexOf();
+      // arrayIndexOf.runArrayIndexOf();
+
+      // Lists lists = new Lists();
+      // lists.runLists();
+
+      // Dictionaries dictionaries = new Dictionaries();
+      // dictionaries.runDictionaries();
+
+      // OddEvenNumbers oddEvenNumbers = new OddEvenNumbers();
+      // oddEvenNumbers.runOddEvenNumbers();
+
+      ArrayOfMultiples arrayOfMultiples = new ArrayOfMultiples();
+      arrayOfMultiples.runArrayOfMultiples();
+
+      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [4:30:00]
     }
   }
 }
