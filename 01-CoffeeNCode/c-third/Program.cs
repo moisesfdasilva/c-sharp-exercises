@@ -22,9 +22,15 @@
 
       //AreaOfATriangle.RunAreaOfATriangle();
 
-      SumOfIntArray.RunSumOfIntArray();
+      //SumOfIntArray.RunSumOfIntArray();
 
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [6:01:09]
+      //TryCatch.RunTryCatch();
+
+      //PrintingErrorMessage.RunPrintingErrorMessage();
+
+      CustomTryParse.RunCustomTryParse();
+
+      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [6:25:59]
     }
   }
 }
