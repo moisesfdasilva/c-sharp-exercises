@@ -28,9 +28,17 @@
 
       //PrintingErrorMessage.RunPrintingErrorMessage();
 
-      CustomTryParse.RunCustomTryParse();
+      //CustomTryParse.RunCustomTryParse();
 
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [6:25:59]
+      //Debugging.RunDebugging();
+
+      //Structures.RunStructures();
+
+      //Classes.RunClasses();
+
+      ClassesFunctions.RunClassesFunctions();
+
+      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [7:22:07]
     }
   }
 }
