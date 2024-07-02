@@ -36,9 +36,13 @@
 
       //Classes.RunClasses();
 
-      ClassesFunctions.RunClassesFunctions();
+      //ClassesFunctions.RunClassesFunctions();
 
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [7:22:07]
+      //ClassFields.RunClassFields();
+
+      ClassVariable.RunClassVariable();
+
+      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [7:41:30]
     }
   }
 }
