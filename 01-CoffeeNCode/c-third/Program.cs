@@ -40,9 +40,11 @@
 
       //ClassFields.RunClassFields();
 
-      ClassVariable.RunClassVariable();
+      //ClassVariable.RunClassVariable();
 
-      //https://www.youtube.com/watch?v=YrtFtdTTfv0 [7:41:30]
+      //ClassProperties.RunClassProperties();
+
+      ClassToStringOverride.RunClassToStringOverride();
     }
   }
 }

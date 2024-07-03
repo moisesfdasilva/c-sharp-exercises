@@ -1,5 +1,6 @@
 ﻿namespace InitialLessons
 {
+  //https://www.youtube.com/watch?v=YrtFtdTTfv0
   class Program
   {
     static void Main(string[] args)
