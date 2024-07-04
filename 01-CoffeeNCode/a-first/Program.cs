@@ -1,5 +1,6 @@
 ﻿namespace InitialLessons
 {
+  // dotnet new console --name "projectname"
   //https://www.youtube.com/watch?v=YrtFtdTTfv0
   class Program
   {
