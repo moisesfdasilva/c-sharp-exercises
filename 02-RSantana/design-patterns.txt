@@ -1,0 +1,28 @@
+Design Patterns Creational
+  Factory Method
+  Abstract Factory
+  Singleton
+  Builder
+  Prototype
+
+Design Patterns Structural
+  Adapter
+  Flyweight
+  Bridge
+  Composite
+  Decorator
+  Facade
+  Proxy
+
+Design Patterns Behavioural
+  Template Method
+  Interpreter
+  Observer
+  Visitor
+  Command
+  Strategy
+  Chain of Responsability
+  Iterator
+  Mediator
+  Memento
+  State
